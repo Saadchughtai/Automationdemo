@@ -74,7 +74,8 @@ automation-demo/
 <img width="1470" height="956" alt="Screenshot 2026-07-17 at 03 11 12" src="https://github.com/user-attachments/assets/adb24ccc-fe83-4247-b144-65beb8a183a5" />
 <img width="2940" height="1912" alt="Screenshot 2026-07-17 at 03 11 30" src="https://github.com/user-attachments/assets/5e1a6a7d-afbf-485b-9b58-547a42b6fa86" />
 <img width="1470" height="956" alt="Screenshot 2026-07-17 at 03 13 11" src="https://github.com/user-attachments/assets/bf21d416-db6c-4ea4-ac8d-d91a972d85e1" />
-<img width="1470" height="956" alt="Screenshot 2026-07-17 at 03 13 19" src="https://github.com/user-attachments/assets/f7d35365-1db4-4f3b-88fb-03675f409452" />
+<img width="1470" height="956" alt="Screenshot 2026-07-17 at 03 15 37" src="https://github.com/user-attachments/assets/ea9fec3c-27eb-4783-b898-f891ee8c4524" />
+
 
 
 
