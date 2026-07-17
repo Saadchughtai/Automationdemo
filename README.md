@@ -1,46 +1,77 @@
-# Automationdemo
-# Task Manager
+# Automation Demo
 
-A simple task management web application built with React and Node.js.
+A beginner-friendly Playwright automation project built with JavaScript to practice end-to-end web testing concepts, including locators, assertions, waits, browser interactions, and UI element handling.
 
 ## Features
 
-- User authentication
-- Create, edit, and delete tasks
-- Task filtering
-- Responsive design
+- Playwright project setup
+- Browser automation
+- Element locators
+- Assertions
+- Dynamic waits
+- Dropdowns, checkboxes, and radio buttons
+- Child window and tab handling
+- Cross-browser test execution
 
 ## Installation
 
 ```bash
-git clone https://github.com/johndoe/task-manager.git
-cd task-manager
+git clone https://github.com/your-username/automation-demo.git
+cd automation-demo
 npm install
+npx playwright install
 ```
 
-## Run
+## Run Tests
+
+Run all tests:
 
 ```bash
-npm run dev
+npx playwright test
 ```
 
-Visit:
+Run tests in headed mode:
 
+```bash
+npx playwright test --headed
 ```
-http://localhost:3000
+
+Open the HTML report:
+
+```bash
+npx playwright show-report
 ```
 
 ## Tech Stack
 
-- React
-- Express
-- MongoDB
-- Tailwind CSS
+- Playwright
+- JavaScript (ES6+)
+- Node.js
+- npm
+
+## Project Structure
+
+```
+automation-demo/
+├── tests/
+├── playwright.config.js
+├── package.json
+└── README.md
+```
+
+## Learning Objectives
+
+- Understand Playwright fundamentals
+- Practice UI automation
+- Learn locator strategies
+- Implement assertions
+- Handle browser contexts and multiple tabs
+- Build reliable end-to-end tests
 
 ## Screenshots
 
-(Add screenshots here.)
+_Add screenshots or test reports here._
 
 ## License
 
-MIT
+This project is for educational and learning purposes.
